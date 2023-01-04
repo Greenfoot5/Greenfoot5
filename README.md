@@ -12,7 +12,7 @@ My main projects are:
 - [Bestagon-Defence](https://github.com/Greenfoot5/Bestagon-Defence) an open source tower defence game made in Unity aiming to reduce the repetitiveness generally present in Tower Defence games.
 
 # :mailbox: Get in touch
-- Email: `harvey-ford@outlook.com`
+- Email: `harvey@alchemix.dev`
 - LinkedIn: [www.linkedin.com/in/harvey-ford](www.linkedin.com/in/harvey-ford)
 - Discord: Greenfoot5#2535
 
