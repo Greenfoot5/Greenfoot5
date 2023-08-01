@@ -35,9 +35,6 @@ My main projects are:
 </p>
 
 <p>
-<a href="https://github.com/greenfoot5/EnchantedDuels">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=greenfoot5&repo=enchantedduels&theme=moltack" alt="EnchantedDuels repository card" />
-</a>
 <a href="https://github.com/nielsvv08/enchanted-public">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nielsvv08&repo=enchanted-public&theme=jolly&show_owner=true" alt="enchanted-public repository card" />
 </a>
