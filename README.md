@@ -1,5 +1,5 @@
 [![Greenfoot5 on itch.io](https://img.shields.io/static/v1?label=itch.io&message=My%20Games&color=red&logo=itch.io)](https://greenfoot5.itch.io)
-![Discord username: Greenfoot5#2535](https://img.shields.io/static/v1?label=Discord&message=Greenfoot5%232535&color=blue&logo=discord&logoColor=white)
+![Discord username: greenfoot5](https://img.shields.io/static/v1?label=Discord&message=greenfoot5&color=blue&logo=discord&logoColor=white)
 [![Website link](https://img.shields.io/badge/Website-harvey.alchemix.dev-blueviolet)](https://harvey.alchemix.dev/)
 [![Linked in](https://img.shields.io/static/v1?label=LinkedIn&message=My%20LinkedIn&color=blue&logo=linkedin)](https://www.linkedin.com/in/harvey-ford-2541791a7/)
 
@@ -14,7 +14,7 @@ My main projects are:
 # :mailbox: Get in touch
 - Email: `harvey@alchemix.dev`
 - LinkedIn: [www.linkedin.com/in/harvey-ford](www.linkedin.com/in/harvey-ford)
-- Discord: Greenfoot5#2535
+- Discord: @greenfoot5
 
 #  My Stats
 <a href="https://github.com/Greenfoot5">
