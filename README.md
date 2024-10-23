@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-I'm Greenfoot5 or Harvey, a student at Swansea University studying software engineering. I also work on various project in my spare time, from Discord bots to games in Unity!
+I'm Greenfoot5 or Harvey, a graduate from Swansea University in Software Engineering. While I'm not looking for a job, I work on various projects from Discord bots to games in Unity & Godot!
 
 My main projects are:
 - [Ratz](https://github.com/Greenfoot5/Ratz) as a piece of group coursework at university, using SCRUM principles to add a level editor.
